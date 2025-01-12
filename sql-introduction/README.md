@@ -1,5 +1,5 @@
 # sql-introduction
-This repository contains homework assignments from a QA (manual and automation software testing) course.
+This folder contains homework assignments focused on SQL fundamentals, completed as part of a QA course (manual and automation).
 
 ## Important Note
 
